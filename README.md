@@ -108,8 +108,7 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 > it means that wallet you provided doesn't have USDC/WSOL token account.
 > FIX: Go to dex and swap some SOL to USDC/WSOL. When you swap sol to wsol you should see it in wallet.
 
-## CONTACT
-Telegram: `@AhmedRabby2002`
+
 
 ## DISCLAIMER
 
